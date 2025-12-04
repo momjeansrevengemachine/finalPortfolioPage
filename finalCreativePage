@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>natalie streeter: a writing portfolio</title>
+  <link href="styles.css" rel="stylesheet">
+</head>
+        <header>
+            <h1 id="page-header">natalie streeter: a creative portfolio</h1>
+          <ul id="nav-bar">
+            <li class="header-item"><a href="finalHomePage.html" class="hf-link">home</a></li>
+          <li class="header-item"><a href="finalPoetryPage.html" class="hf-link">poetry</a></li>
+                <li class="header-item"><a href="finalAcademicPage.html" class="hf-link">academic essays</a></li>
+                <li class="header-item"><a href="finalCreativePage.html" class="hf-link">creative essays</a></li>
+          </ul>
+        </header>
+<body>
+  <h2>publications</h2>
+  <p>  <ul class="tableofcontents">
+    <li> <a href="#creative1"> publication one</li>
+      <li> <a href="#creative2"> publication two</li>
+        <li> <a href="#creative3"> publication three</li>
+  </ul> </p>
+  <h2 id="creative1"> publication one </h2>
+  <p> publication one </p>
+  <h2 id="creative2"> publication two </h2>
+  <p> publication two </p>
+  <h2 id="creative3"> publication three </h2>
+  <p> publication three </p>
+  <div>
+      <ul id="footer">
+        <li class="footer-item">Natalie Streeter: All Rights Reserved 2025</li>
+        <li class="footer-item">Contact: <a href="mailto:natilda5@gmail.com" class="hf-link"> natalie.h.streeter@gmail.com </a></li>
+            </ul>
+  </div>
+</body>
+</html>
