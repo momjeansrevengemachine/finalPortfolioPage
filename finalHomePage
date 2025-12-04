@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>natalie streeter: a writing portfolio</title>
+  <link href="styles.css" rel="stylesheet">
+</head>
+        <header>
+            <h1 id="page-header">natalie streeter: a writing portfolio</h1>
+          <ul id="nav-bar">
+            <li class="header-item"><a href="finalHomePage.html" class="hf-link">home</a></li>
+          <li class="header-item"><a href="finalPoetryPage.html" class="hf-link">poetry</a></li>
+                <li class="header-item"><a href="finalAcademicPage.html" class="hf-link">academic essays</a></li>
+                <li class="header-item"><a href="finalCreativePage.html" class="hf-link">creative essays</a></li>
+          </ul>
+        </header>
+<body>
+  <h2>about me</h2>
+  <p>
+  welcome to my page... a home for my writing, to showcase both academic and creative pursuits. on this page you will find samples of my work as well as updates on my current projects. 
+  </p>
+  <h2>works in progress</h2>
+  <p> coming next... a poetry collection on a year of change and a year of reflection. stay tuned for "never date a poet." </p>
+  <h2>events</h2>
+  <p>chicago is chock full of events for poets... if I'm attending any upcoming open mics, you can find them here! </p>
+
+  <figure class="image-content">
+        <img src="headshot_Streeter_Natalie.png" alt="headshot">
+    <figcaption>Natalie Streeter 2023</figcaption>
+    </figure>
+  <div>
+      <ul id="footer">
+        <li class="footer-item">Natalie Streeter: All Rights Reserved 2025</li>
+        <li class="footer-item">Contact: <a href="mailto:natilda5@gmail.com" class="hf-link"> natalie.h.streeter@gmail.com </a></li>
+            </ul>
+  </div>
+</body>
+</html>
